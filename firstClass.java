@@ -1,4 +1,3 @@
-
 //First Java Program
 import java.util.*;
 
@@ -16,6 +15,8 @@ class firstClass {
         Scanner sc = new Scanner(System.in);
         int b = sc.nextInt();
         int c = sc.nextInt();
-
+        
+        //conditional statements are same as C language same syntax , same way ..........
+        //Loops :- for, wile, do-while | same syntax
     }
 }
