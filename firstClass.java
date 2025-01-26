@@ -18,5 +18,22 @@ class firstClass {
         
         //conditional statements are same as C language same syntax , same way ..........
         //Loops :- for, wile, do-while | same syntax
+        
+        //function syntax ;
+        /* public static returnDataType FunctionName(type arg1, type arg2, ....){
+            statements ;
+            .
+            .
+            .
+            return statement;    only a single value is returned.
+        } 
+
+        functions in the memory are stored in the form of stack, each stored fucntion is called stack frame.
+        intially main fucntion is first stack frame, memory is allocated to it, As soon as another function is called 
+        it is stored in stack frame and memory is allocated to it , when it returns the final value then it is 
+        automatically freed from the memory. Similarly main is also freed.....
+
+        funcitons are called directly whereas methods are called with the helpof class objects that are being created.
+            */
     }
 }
