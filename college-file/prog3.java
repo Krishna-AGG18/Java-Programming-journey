@@ -17,7 +17,7 @@ public class prog3 {
                 }
             }
             if(temp){
-                System.out.println(i);}
+                System.out.print(i+"   ");}
         }
     }
 }
