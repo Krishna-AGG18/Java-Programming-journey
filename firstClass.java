@@ -33,7 +33,7 @@ class firstClass {
         it is stored in stack frame and memory is allocated to it , when it returns the final value then it is 
         automatically freed from the memory. Similarly main is also freed.....
 
-        funcitons are called directly whereas methods are called with the helpof class objects that are being created.
+        funcitons are called directly whereas methods are called with the help of class objects that are being created.
             */
     }
 }
